@@ -1,0 +1,113 @@
+==============================
+        USER REPORT
+==============================
+
+=== USER STATISTICS ===
+Total Users: 28
+System Users (UID < 1000): 26
+Regular Users (UID >= 1000): 2
+Currently Logged In: 1
+
+=== REGULAR USER DETAILS ===
+Username     UID    Home Directory       Shell           Last Login          
+--------     ---    --------------       -----           ----------          
+nobody       65534  /nonexistent         /usr/sbin/nologin in**                
+madhavi      1000   /home/madhavi        /bin/bash       in**                
+
+=== GROUP INFORMATION ===
+Group Name           Members   
+----------           -------   
+root                 0         
+daemon               0         
+bin                  0         
+sys                  0         
+adm                  2         
+tty                  0         
+disk                 0         
+lp                   0         
+mail                 0         
+news                 0         
+uucp                 0         
+man                  0         
+proxy                0         
+kmem                 0         
+dialout              0         
+fax                  0         
+voice                0         
+cdrom                1         
+floppy               0         
+tape                 0         
+sudo                 1         
+audio                0         
+dip                  1         
+www-data             0         
+backup               0         
+operator             0         
+list                 0         
+irc                  0         
+src                  0         
+shadow               0         
+utmp                 0         
+video                0         
+sasl                 0         
+plugdev              1         
+staff                0         
+games                0         
+users                1         
+nogroup              0         
+systemd-journal      0         
+systemd-network      0         
+crontab              0         
+systemd-timesync     0         
+input                0         
+sgx                  0         
+kvm                  0         
+render               0         
+messagebus           0         
+syslog               0         
+systemd-resolve      0         
+uuidd                0         
+_ssh                 0         
+landscape            0         
+polkitd              0         
+admin                0         
+netdev               0         
+madhavi              0         
+rdma                 0         
+
+=== SECURITY ALERTS ===
+Users with root privileges (UID 0): 1
+ - root
+
+Users without passwords (Regular Users Only):
+root
+daemon
+bin
+sys
+sync
+games
+man
+lp
+mail
+news
+uucp
+proxy
+www-data
+backup
+list
+irc
+_apt
+nobody
+dhcpcd
+messagebus
+syslog
+uuidd
+landscape
+
+Inactive Users (Never Logged In):
+nobody
+madhavi
+
+==============================
+        END OF REPORT
+==============================
